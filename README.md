@@ -39,3 +39,14 @@ ___
 There are 44173 skills in the SKILLS_NAME column. To make this plot readable and help to understand the question I’m showing the top 15 industries by count of skill mentions
 
 ___
+
+![Fig 07](output/plot_07.png)
+
+The only ONET_NAME category, when filtered for salary information, is Business Intelligence Analysists. When not filtered for salary information it’s Business Intelligence Analysists and null.
+___
+
+![Fig 08](output/plot_08.png)
+
+Same thing here it appears that both SOC_2021_2_NAME and SOC_2021_3_NAME contain the entire dataset, making a plot of this kind generally uninformative
+
+___
